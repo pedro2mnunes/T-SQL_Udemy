@@ -1,3 +1,3 @@
 /* Session 01 */
-SELECT 1 + 1 Result
+SELECT 2 + 1 AS Result;
 
